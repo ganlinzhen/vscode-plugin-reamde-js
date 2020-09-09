@@ -1,11 +1,12 @@
 {
 	"name": "readme",
+	"icon": "image/logo.jpg",
 	"displayName": "readme",
 	"description": "readme ",
 	"publisher": "ganlinzhen",
 	"token": "xeyiy26h5srvmxsuiqrww27dtsbj5h4li7kp6byh6q4lsljvajxa",
 	"repository": "https://github.com/ganlinzhen/vscode-plugin-reamde-js.git",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.48.0"
 	},
